@@ -628,6 +628,13 @@ progress {
   height: auto;
 }
 
+.img-thumbnail-sm {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  max-width: 25%;
+  height: auto;
+}
+
 .figure {
   display: inline-block;
 }
